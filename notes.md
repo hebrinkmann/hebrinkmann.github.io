@@ -14,3 +14,5 @@ title: notes
 * AngularJS
   * i18n
     * [I18n in AngularJS Anwendungen einfach gemacht](https://angularjs.de/artikel/angularjs-i18n-ng-translate)
+* Markdown
+  * Presentation with markdown: http://remarkjs.com
