@@ -1,5 +1,6 @@
 ---
 title: notes
+layout: post
 ---
 
 #Notes
