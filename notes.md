@@ -1,6 +1,6 @@
 ---
 title: notes
-layout: post
+layout: default
 ---
 
 #Notes
