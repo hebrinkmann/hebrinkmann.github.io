@@ -21,3 +21,6 @@ layout: default
   * Presentation with markdown: http://remarkjs.com
 * Databases
   * Source Control for Databases: http://www.liquibase.org/
+* Git
+  * Hosting
+    * [GitBlit](http://gitblit.com/)
