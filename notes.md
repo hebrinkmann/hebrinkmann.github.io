@@ -17,6 +17,8 @@ layout: default
     * [I18n in AngularJS Anwendungen einfach gemacht](https://angularjs.de/artikel/angularjs-i18n-ng-translate)
   * Debugging
     * [Debugging AngularJS Apps from the Console](http://ionicframework.com/blog/angularjs-console/)
+  * Security
+    * [AngularJS - Login & Sicherheit](https://angularjs.de/artikel/angularjs-login-sicherheit)
 * Markdown
   * Presentation with markdown: http://remarkjs.com
 * Databases
